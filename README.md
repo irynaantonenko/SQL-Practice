@@ -5,6 +5,7 @@ Practice with MySQL: creating requests for selecting, updating, inserting, delet
 ![image](https://user-images.githubusercontent.com/116346013/199754561-155772ab-004b-4b5c-84c2-68a1a2ac5356.png)
 ![image](https://user-images.githubusercontent.com/116346013/199755265-017cfb7d-b6dd-458f-ae18-74beb55eb2fc.png)
 ![image](https://user-images.githubusercontent.com/116346013/199768342-ac3cb9c3-3105-4aa6-92a0-011108237ba9.png)
+![image](https://user-images.githubusercontent.com/116346013/199773314-582ceced-a187-4b0f-a3e9-823ebba187f8.png)
 ________________________________________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/116346013/199758392-d8925153-06a0-4461-b7c9-1e61211e6097.png)
 ![image](https://user-images.githubusercontent.com/116346013/199758801-aff5de6e-193c-4e19-a9f0-4281611f3ff5.png)
